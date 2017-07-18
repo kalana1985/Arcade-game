@@ -9,6 +9,9 @@ For detailed instructions on how to get started, check out this [guide](https://
 ##RESOURCES I REFER TO FINISH THIS PROJECT AS FOLLOWS!##
 
 1 https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript/Create_the_Canvas_and_draw_on_it
+
 2 https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript
+
 3 https://teamtreehouse.com/library/coding-your-first-html5-game-2
+
 4 https://classroom.udacity.com/nanodegrees/nd001/parts/3692bea4-2632-4ce2-a693-32eafb84dd98/modules/269645859775463/lessons/2696458597239847/concepts/26849785360923
